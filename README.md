@@ -28,3 +28,8 @@ The "Python Image Text Extractor" is a Python application designed to extract an
 4. **Results**:
    - Extracted text is saved in the text output format.
    - View the result in the "result.png" file (example result).
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
