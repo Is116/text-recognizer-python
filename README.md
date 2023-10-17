@@ -17,7 +17,7 @@ The "Python Image Text Extractor" is a Python application designed to extract an
 ## Usage
 
 1. **Installation**:
-   - Clone the repository: `git clone https://github.com/your-username/your-repo.git`
+   - Clone the repository: `git clone https://github.com/Is116/text-recognizer-python.git`
    - Install dependencies: `pip install`
 
 2. **Run the Application**:
