@@ -23,7 +23,7 @@ The "Python Image Text Extractor" is a Python application designed to extract an
 2. **Run the Application**:
    - Ensure that you have installed the necessary libraries and dependencies. If not, you can use the following command to install the required libraries:
    - python
-   - !pip install your-library-name
+   - pip install your-library-name
 
 4. **Results**:
    - Extracted text is saved in the text output format.
