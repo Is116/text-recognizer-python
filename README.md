@@ -18,7 +18,7 @@ The "Python Image Text Extractor" is a Python application designed to extract an
 
 1. **Installation**:
    - Clone the repository: `git clone https://github.com/your-username/your-repo.git`
-   - Install dependencies: `pip install -r requirements.txt`
+   - Install dependencies: `pip install`
 
 2. **Run the Application**:
    - Ensure that you have installed the necessary libraries and dependencies. If not, you can use the following command to install the required libraries:
